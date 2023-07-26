@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GovindhanN
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning MERN stack
+- i would like to learn more
 - 📫 How to reach me  govindnsh@gmail.com
 
 <!---
